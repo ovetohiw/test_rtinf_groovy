@@ -3,7 +3,7 @@ class Main {
 
         def arr = [1, 3, 4, 5, 1, 5, 4]
 
-        System.out.println(associativeArray(arr))
+        println(associativeArray(arr))
     }
 
     def static associativeArray(def arr) {
